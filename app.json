@@ -3,7 +3,7 @@
   "description": "Generate Frontend from Provided Design like Sketch, PSD, AI and PDF.",
   "scripts": {
     "postdeploy": "yarn start",
-    "pr-predestroy": "yarn test"
+    "pr-predestroy": "yarn install"
   },
   "env": {
     "NODE_ENV": "production"
