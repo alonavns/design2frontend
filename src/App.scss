@@ -1,0 +1,20 @@
+body {
+  background: #f7f8f9;
+}
+
+*::-webkit-scrollbar {
+  width: 4px;
+
+  &-track {
+    background: transparent;
+  }
+
+  &-thumb {
+    border-radius: 3px;
+    background-color: rgba(0,0,0,0.25);
+
+    &:hover {
+      background: #555;
+    }
+  }
+}
