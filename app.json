@@ -1,0 +1,19 @@
+{
+  "name": "design2frontend",
+  "description": "Generate Frontend from Provided Design like Sketch, PSD, AI and PDF.",
+  "scripts": {
+    "postdeploy": "yarn start",
+    "pr-predestroy": "yarn test"
+  },
+  "env": {
+    "NODE_ENV": "production"
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
