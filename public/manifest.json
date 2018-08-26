@@ -1,6 +1,6 @@
 {
-  "short_name": "Design to Frontend App",
-  "name": "Design to Frontend Application using React",
+  "short_name": "React App",
+  "name": "Create React App Sample",
   "icons": [
     {
       "src": "favicon.ico",
